@@ -12,6 +12,10 @@
   },
   "author": "Miroslav Pashaliski",
   "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
   "bugs": {
     "url": "https://github.com/pashaliski/socketchat/issues"
   },
